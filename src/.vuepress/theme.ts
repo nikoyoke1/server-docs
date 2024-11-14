@@ -6,13 +6,8 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
-  author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
-  },
-
   iconAssets: "fontawesome-with-brands",
-
+  
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
@@ -26,8 +21,8 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
-  displayFooter: true,
+  footer: "Copyright © 2024 Mr.NikoYoke",
+  displayFooter: false,
 
   // 加密配置
   encrypt: {

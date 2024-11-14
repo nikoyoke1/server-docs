@@ -6,8 +6,7 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "QDY-SERVER",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "NikoYoke-Server",
 
   theme,
 
