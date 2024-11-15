@@ -1,15 +1,15 @@
 ---
 home: true
 title: 🏡 Home
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: ./kbny.png
 bgImageStyle:
   background-attachment: fixed
 heroText: NikoYoke-Sever
 tagline: 主要为bot和私有服务的使用帮助
 actions:
-  - text: 使用指南
-    icon: lightbulb
-    link: ./demo/
+  - text: 🤖Bot使用指南
+    icon: 
+    link: ./bot/游戏助手/
     type: primary
 
   - text: 文档
@@ -17,7 +17,7 @@ actions:
 
 
 features:
-      - title: JS-bot
+      - title: Yunzai-Bot
         icon: fa-brands fa-square-js
         details: 基于JS搭建的Q群机器人实现各种有趣的功能
         link: https://github.com/yhArcadia/Yunzai-Bot-plugins-index
@@ -50,7 +50,7 @@ features:
       - title: TeamSpeak
         icon: fa-brands fa-teamspeak
         details: 自建专业向语音服务器，对标KOOK之类的主流语言软件
-        link: https://github.com/nikoyoke1/server-docs
+        link: https://teamspeak.com/en/thanks-for-downloading-teamspeak/
 
 footer: 使用 <a href="https://github.com/nikoyoke1/server-docs" target="_blank">Github © 2024 server-docs </a> MIT 协议, 版权所有 © Mr.NikoYoke
 ---

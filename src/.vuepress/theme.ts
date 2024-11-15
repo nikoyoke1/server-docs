@@ -4,13 +4,13 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://github.com/nikoyoke1",
 
   iconAssets: "fontawesome-with-brands",
   
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "./kbny.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/nikoyoke1",
 
   docsDir: "src",
 
