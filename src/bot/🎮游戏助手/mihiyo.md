@@ -75,9 +75,11 @@ tag:
 
 发送 `#抽卡记录` 查询当前自己的抽卡记录，使用`#更新抽卡记录`进行获取最新的记录
 
+>星铁暂不支持此功能
+
 <img src="https://s2.loli.net/2024/11/15/kIBduFUYD6g5msR.png" width="50%" height="50%">
 
-## 🗺️攻略类
+## 🗺️ 攻略类
 
 ### 大世界采集物查找
 
@@ -104,3 +106,14 @@ tag:
 > 目前仅支持 原神 星铁
 
 <img src="https://s2.loli.net/2024/11/15/79c4uhFwBqlQjON.png" width="50%" height="50%">
+
+## 🛠️ Bot插件来源
+
+[miao-plugin插件](https://gitee.com/yoimiya-kokomi/miao-plugin)<br>
+[liangshi-calc插件](https://gitee.com/liangshi233/liangshi-calc)<br>
+[Atlas插件](https://github.com/Nwflower/atlas)<br>
+[ZZZ-Plugin插件](https://github.com/ZZZure/ZZZ-Plugin)<br>
+[StarRail-plugin插件](https://gitee.com/hewang1an/StarRail-plugin)<br>
+[xiaoyao-cvs-plugin插件](https://github.com/ctrlcvs/xiaoyao-cvs-plugin)
+
+### 更多指令发送 `#帮助` 进行查看

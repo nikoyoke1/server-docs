@@ -42,15 +42,28 @@ features:
         details: 私人视频服务器，快速、无AD，界面简单美观
         link: http://www.qdy.ink:55501/
 
-      - title: API服务
-        icon: fa-solid fa-wand-magic-sparkles
-        details: KIMI | 网易云 | DELLPX | MEME 
-        link: https://github.com/nikoyoke1/server-docs
+      - title: 苏奈Mio_Official
+        icon: fa-brands fa-github-alt
+        details: 她很可爱，虽然有点笨但想让你也一起看看
+        link: https://space.bilibili.com/1847005675?spm_id_from=333.337.0.0
+
+      - title: 黑原缚Kurohara
+        icon: fa-brands fa-github-alt
+        details: 她唱歌非常好听，想让你也一起看看 
+        link: https://space.bilibili.com/52719242?spm_id_from=333.999.0.0
 
       - title: TeamSpeak
         icon: fa-brands fa-teamspeak
         details: 自建专业向语音服务器，对标KOOK之类的主流语言软件
         link: https://teamspeak.com/en/thanks-for-downloading-teamspeak/
+
+      - title: API服务
+        icon: fa-solid fa-wand-magic-sparkles
+        details: KIMI | 网易云 | DELLPX | MEME 
+        link: https://github.com/nikoyoke1/server-docs
+
+
+      
 
 footer: 使用 <a href="https://github.com/nikoyoke1/server-docs" target="_blank">Github © 2024 server-docs </a> MIT 协议, 版权所有 © Mr.NikoYoke
 ---
