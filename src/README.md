@@ -9,10 +9,10 @@ tagline: 主要为bot和私有服务的使用帮助
 actions:
   - text: 🤖Bot使用指南
     icon: 
-    link: ./bot/游戏助手/
+    link: ./bot/🎮游戏助手/mihiyo
     type: primary
 
-  - text: 文档
+  - text: 🖥️Server使用指南
     link: ./server/emby
 
 
