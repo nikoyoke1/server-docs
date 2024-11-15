@@ -13,7 +13,7 @@ actions:
     type: primary
 
   - text: 文档
-    link: ./guide/
+    link: ./server/emby
 
 
 features:

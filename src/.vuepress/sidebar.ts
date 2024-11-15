@@ -3,7 +3,6 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "/": [
     "",
-    // "portfolio",
     {
       text: "🤖Bot",
       icon: "",
@@ -12,15 +11,11 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "文档",
-      icon: "book",
-      prefix: "guide/",
+      text: "🖥️serve",
+      icon: "",
+      prefix: "server/",
+      link: "server/",
       children: "structure",
-    },
-    {
-      text: "幻灯片",
-      icon: "person-chalkboard",
-      link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
-    },
+    }
   ],
 });
