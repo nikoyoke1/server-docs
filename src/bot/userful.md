@@ -76,6 +76,12 @@ tag:
 
 <img src="https://s2.loli.net/2024/11/19/hEfV1ljexPK68gB.png" width='50%' height='50%'>
 
+### 天气查询
+
+使用 `xx天气` xx为地址，即可查询当天起七天的天气
+
+<img src="https://s2.loli.net/2024/11/20/2plFNQKZbmtaEPi.png" width='50%' height='50%'>
+
 ## 🛠️插件来源
 
 [rconsole-plugin插件](https://gitee.com/kyrzy0416/rconsole-plugin)<br>
