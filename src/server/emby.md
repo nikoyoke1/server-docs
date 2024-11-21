@@ -37,7 +37,7 @@ tag:
 
 <img src="https://s2.loli.net/2024/11/20/Lo4WkNmFHntwGPY.jpg" width="50%" height="30%">
 
-> PC端和ios是判端同理
+> PC端和ios端同理
 
 ## 📦安装包
 
